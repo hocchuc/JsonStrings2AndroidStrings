@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JsonStrings2AndroidStrings:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/JsonStrings2AndroidStrings_jar</output-path>
+    <root id="archive" name="JsonStrings2AndroidStrings.jar">
+      <element id="module-output" name="JsonStrings2AndroidStrings" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/externaLibs/AndroidStringResourcesGenerator.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/externaLibs/jsonInJava.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
